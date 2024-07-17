@@ -31,5 +31,5 @@ shell:> anagram-check one two
 ## Run the anagram-fetch command locally in Spring Shell
 
 ```shell
-shell:> anagram-check one
+shell:> anagram-fetch one
 ```
