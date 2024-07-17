@@ -1,0 +1,12 @@
+logging:
+  level:
+    root: OFF
+spring :
+  shell:
+    interactive:
+      enabled: true
+    script:
+      enabled: true
+  main:
+    banner-mode: off
+    web-application-type: none
